@@ -1,0 +1,21 @@
+The following questions relate to SEO (search engine optimisation), and its best practices.
+
+1. How many times should you repeat a key word or phrase on a page?
+a. There’s no set figure
+
+2. What’s the best choice for a server response code if a page no longer exists on your web site?
+a. 404 - If webpage no longer exists
+
+3. True, false, both, or neither: Site performance can impact search rankings on Google and Bing.
+Both
+
+4. Pick the most important SEO performance indicator, if your client runs an e-commerce site:
+b. Sales from organic search. - from the clients point of view, but low sales may not indicate bad SEO could be due to bad pricing.
+
+5. What are the first three things you would check when doing an SEO audit?
+What Are Your Strategic Objectives?
+Keyword Analysis
+Competitor Analysis
+
+6. Define canonicalisation as it relates to SEO.
+Used to flag when you are using content from another page and you do not want search engines to mark you down for using duplicate content 
